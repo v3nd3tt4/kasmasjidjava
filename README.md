@@ -2,7 +2,7 @@
 Aplikasi untuk mencatat pengeluaran dan pemasukan masjid menggunakan java
 
 ## Rancangan Project
-[Untuk melihat rancangan project silahkan download disini] (https://github.com/v3nd3tt4/kasmasjidjava/UAS_rancangan_project.docx) 
+Untuk melihat rancangan project silahkan download disini (https://raw.githubusercontent.com/v3nd3tt4/kasmasjidjava/main/UAS_rancangan_project.docx) 
 
 ## Screenshot
 
