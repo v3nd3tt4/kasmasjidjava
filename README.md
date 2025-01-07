@@ -1,6 +1,12 @@
 # Aplikasi kas masjid berbasis java
 Aplikasi untuk mencatat pengeluaran dan pemasukan masjid menggunakan java
 
+# Author
+Nama: Okta Pilopa
+NPM: 2310010066
+Kelas: BJB NONREG A
+Matakuliah: PBO 2
+
 ## Rancangan Project
 Untuk melihat rancangan project silahkan download disini (https://raw.githubusercontent.com/v3nd3tt4/kasmasjidjava/main/UAS_rancangan_project.docx) 
 
